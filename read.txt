@@ -1,3 +1,10 @@
 start client- npm run dev
 start server-npm start    at localhost8080
 platform/openai/api-keys
+
+
+backend-server-https://tshirt-customizer-threejs-ai-b1kn.onrender.com/
+client-server-https://t-customizer-rajeev.netlify.app
+
+
+deployment left with hostliger
